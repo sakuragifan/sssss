@@ -8,4 +8,9 @@ public class FirstClass {
         System.out.println("11111");
     }
 
+    public  void test11(){
+        int i = 0 ;
+        System.out.println(i);
+    }
+
 }
